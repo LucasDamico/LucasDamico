@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lucas D'amico, I am 18 years old
+- 👀 I’m interested in videogames, learning things that I need to get a job
+- 🌱 I’m currently learning programming, Java, Software development... etc at high school
+- 📫 How to reach me: my gmail is lucaslisandrodamico@gmail.com
